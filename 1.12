@@ -1,0 +1,2 @@
+.data  
+    matrix 50 dup (10 dup (0), 20 dup (-1))
